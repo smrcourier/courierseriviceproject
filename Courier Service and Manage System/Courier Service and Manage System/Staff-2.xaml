@@ -1,0 +1,15 @@
+﻿<Window x:Class="Courier_Service_and_Manage_System.Staff_2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Courier_Service_and_Manage_System"
+        mc:Ignorable="d"
+        Title="Staff_2" Height="313.83" Width="524.468">
+    <Grid>
+        <Button x:Name="Parcel" Content="Parcel" HorizontalAlignment="Left" Margin="60,84,0,0" VerticalAlignment="Top" Width="116" Height="52" FontWeight="Bold" FontFamily="Times New Roman" FontSize="24" Click="Click_for_S3"/>
+        <Button x:Name="uc" Content="User Complain" HorizontalAlignment="Left" Margin="274,84,0,0" VerticalAlignment="Top" Width="155" Height="52" FontWeight="Bold" FontFamily="Times New Roman" FontSize="18.667" Click="click_for_s7"/>
+        <Button x:Name="Back" Content="Back" HorizontalAlignment="Left" Margin="409,212,0,0" VerticalAlignment="Top" Width="99" Height="45" FontWeight="Bold" FontFamily="Times New Roman" FontSize="24" Click="click_for_S1"/>
+
+    </Grid>
+</Window>

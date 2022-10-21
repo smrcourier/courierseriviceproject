@@ -1,0 +1,13 @@
+﻿<Window x:Class="Courier_Service_and_Manage_System.staff_5"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Courier_Service_and_Manage_System"
+        mc:Ignorable="d"
+        Title="staff_5" Height="318.613" Width="574.818">
+    <Grid>
+        <Button x:Name="Back" Content="Back" HorizontalAlignment="Left" Margin="22,242,0,0" VerticalAlignment="Top" Width="95" Height="36" FontFamily="Times New Roman" FontSize="29.333" ContextMenuOpening="click_for_s3" Click="click_for_s3"/>
+
+    </Grid>
+</Window>

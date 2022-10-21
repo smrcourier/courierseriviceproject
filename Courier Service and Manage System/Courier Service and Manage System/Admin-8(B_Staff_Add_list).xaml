@@ -1,0 +1,16 @@
+﻿<Window x:Class="Courier_Service_and_Manage_System.Admin_8"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Courier_Service_and_Manage_System"
+        mc:Ignorable="d"
+        Title="Admin_8" Height="318.085" Width="613.83">
+    <Grid>
+        <Button x:Name="Back" Content="Back" HorizontalAlignment="Left" Margin="40,205,0,0" VerticalAlignment="Top" Width="80" Height="46" FontWeight="Bold" FontFamily="Times New Roman" FontSize="18.667" Click="Click_A7"/>
+        <TextBlock x:Name="staff_add_list_textblock" HorizontalAlignment="Left" Margin="22,40,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="122" Width="574"/>
+        <Button x:Name="Back_Copy" Content="Back" HorizontalAlignment="Left" Margin="40,205,0,0" VerticalAlignment="Top" Width="80" Height="46" FontWeight="Bold" FontFamily="Times New Roman" FontSize="18.667" Click="Click_A7"/>
+        <Button x:Name="Check_Staff_List" Content="Check Staff List" HorizontalAlignment="Left" Margin="393,205,0,0" VerticalAlignment="Top" Width="159" Height="46" FontWeight="Bold" FontFamily="Times New Roman" FontSize="18.667" Click="Check_Staff_List_click"/>
+
+    </Grid>
+</Window>

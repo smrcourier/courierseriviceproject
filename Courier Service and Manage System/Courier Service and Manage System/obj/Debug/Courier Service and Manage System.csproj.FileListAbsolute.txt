@@ -1,0 +1,175 @@
+c:\users\musab noor\documents\visual studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\Courier Service and Manage System.exe.config
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System.csprojResolveAssemblyReference.cache
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-1.g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\MainWindow.g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\App.g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System_MarkupCompile.cache
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System_MarkupCompile.lref
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\Courier Service and Manage System.exe
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\Courier Service and Manage System.pdb
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-1.baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\MainWindow.baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System.g.resources
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier_Service_and_Manage_System.Properties.Resources.resources
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System.csproj.GenerateResource.Cache
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System.exe
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System.pdb
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-1.g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\User-1.g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-1.baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\User-1.baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-2.g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-3(Dashboard).g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-4(B_and_S).g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-2.baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-3(Dashboard).baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-4(B_and_S).baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-5(Branch Add).g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-6(Branch Add List).g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-7(B_Staff_Add).g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-8(B_Staff_Add_list).g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-5(Branch Add).baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-6(Branch Add List).baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-7(B_Staff_Add).baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-8(B_Staff_Add_list).baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-10(P_A All).g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-11(Track Parcel).g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-12(Track Pracel Result).g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-13(User Complain).g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-9(Parcel And Report).g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-10(P_A All).baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-11(Track Parcel).baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-12(Track Pracel Result).baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-13(User Complain).baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-9(Parcel And Report).baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-2.g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-3.g.cs
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-2.baml
+C:\Users\MUSAB NOOR\Documents\Visual Studio 2015\Projects\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-3.baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\Courier Service and Manage System.exe.config
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System.exe
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System.pdb
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\Courier Service and Manage System.exe
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\Courier Service and Manage System.pdb
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System.csprojResolveAssemblyReference.cache
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-1.g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-10(P_A All).g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-11(Track Parcel).g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-12(Track Pracel Result).g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-13(User Complain).g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-2.g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-3(Dashboard).g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-4(B_and_S).g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-5(Branch Add).g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-6(Branch Add List).g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-7(B_Staff_Add).g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-8(B_Staff_Add_list).g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-9(Parcel And Report).g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\MainWindow.g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-1.g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-2.g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-3.g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\User-1.g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\App.g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System_MarkupCompile.cache
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System_MarkupCompile.lref
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-1.baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-10(P_A All).baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-11(Track Parcel).baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-12(Track Pracel Result).baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-13(User Complain).baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-2.baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-3(Dashboard).baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-4(B_and_S).baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-5(Branch Add).baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-6(Branch Add List).baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-7(B_Staff_Add).baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-8(B_Staff_Add_list).baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-9(Parcel And Report).baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\MainWindow.baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-1.baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-2.baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-3.baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\User-1.baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System.g.resources
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier_Service_and_Manage_System.Properties.Resources.resources
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System.csproj.GenerateResource.Cache
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\staff-4.g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\staff-4.baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\staff-5.g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\staff-5.baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\staff-6.g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\staff-6.baml
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\staff-7.g.cs
+C:\Users\Hulo Rahul\Downloads\Compressed\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\staff-7.baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\Courier Service and Manage System.exe.config
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System.exe
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System.pdb
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\Courier Service and Manage System.exe
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\Courier Service and Manage System.pdb
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System.csprojResolveAssemblyReference.cache
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-1.g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-10(P_A All).g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-11(Track Parcel).g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-12(Track Pracel Result).g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-13(User Complain).g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-2.g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-3(Dashboard).g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-4(B_and_S).g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-5(Branch Add).g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-6(Branch Add List).g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-7(B_Staff_Add).g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-8(B_Staff_Add_list).g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-9(Parcel And Report).g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\MainWindow.g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-1.g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-2.g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-3.g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\staff-4.g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\staff-5.g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\staff-6.g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\staff-7.g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\User-1.g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\App.g.cs
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System_MarkupCompile.cache
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System_MarkupCompile.lref
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-1.baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-10(P_A All).baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-11(Track Parcel).baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-12(Track Pracel Result).baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-13(User Complain).baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-2.baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-3(Dashboard).baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-4(B_and_S).baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-5(Branch Add).baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-6(Branch Add List).baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-7(B_Staff_Add).baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-8(B_Staff_Add_list).baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Admin-9(Parcel And Report).baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\MainWindow.baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-1.baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-2.baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Staff-3.baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\staff-4.baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\staff-5.baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\staff-6.baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\staff-7.baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\User-1.baml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System.g.resources
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier_Service_and_Manage_System.Properties.Resources.resources
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System.csproj.GenerateResource.Cache
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\MySql.Data.dll
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\MySql.Data.EntityFramework.dll
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\MySql.Web.dll
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\Google.Protobuf.dll
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\ZstdNet.dll
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\BouncyCastle.Crypto.dll
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\Ubiety.Dns.Core.dll
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\System.Buffers.dll
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\K4os.Compression.LZ4.dll
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\K4os.Hash.xxHash.dll
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\MySql.Data.xml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\MySql.Data.EntityFramework.xml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\bin\Debug\MySql.Web.xml
+G:\University\3.2\Courier Service and Manage System\Courier Service and Manage System\Courier Service and Manage System\obj\Debug\Courier Service and Manage System.csproj.Courier Service and Manage System.exe.config
